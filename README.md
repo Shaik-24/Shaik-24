@@ -34,4 +34,3 @@ I am currently dedicating time to master **Java**, focusing on its core concepts
 - **Looking to collaborate!** Feel free to reach out via issues or pull requests on any of my repositories.
 
 <br>
-<p align="center">Made with ❤️ and Markdown.</p>
