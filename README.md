@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shaik-24!
+# 👋 Hi, I'm Adil!
 
 ### 🧑‍💻 About Me
 I am an enthusiastic learner and **budding developer** focusing on expanding my skills in software development. I'm actively working on projects and contributing to the open-source community to sharpen my programming abilities.
