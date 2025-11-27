@@ -1,36 +1,51 @@
 # 👋 Hi, I'm Adil!
 
 ### 🧑‍💻 About Me
-I am an enthusiastic learner and **budding developer** focusing on expanding my skills in software development. I'm actively working on projects and contributing to the open-source community to sharpen my programming abilities.
+I am a passionate and motivated **Software Developer** with strong interest in building real-world applications using Java and modern development tools. I enjoy solving problems, learning new technologies, and collaborating on projects that create meaningful impact.
 
 ---
 
 ### 🌱 Currently Learning
-I am currently dedicating time to master **Java**, focusing on its core concepts, Object-Oriented Programming (OOP) principles, and exploring backend development frameworks.
+Currently focusing on:
+- **Core Java & OOP**
+- **Data Structures and Algorithms**
+- **Backend development fundamentals**
+- **Version control using Git & GitHub**
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
-| Category | Tools/Languages |
-| :--- | :--- |
+| Category | Tools / Technologies |
+|--------|-----------------------|
 | **Languages** | Java, Python, JavaScript, HTML, CSS |
 | **Version Control** | Git, GitHub |
-| **Concepts** | Data Structures & Algorithms (DSA), OOP |
+| **Core Concepts** | OOP, DSA, Problem Solving |
+| **Tools / IDEs** | Eclipse, VS Code, MySQL Workbench |
 
 ---
 
-### 🚀 My GitHub Activity & Stats
-*This section uses dynamic cards to automatically showcase my performance and activity.*
+### 🚀 GitHub Stats & Activity
 
-[![Shaik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaik-24&show_icons=true&theme=vue&hide_border=true&count_private=true)](https://github.com/Shaik-24)
+![Adil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaik-24&show_icons=true&theme=vue&hide_border=true&count_private=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-24&layout=compact&theme=vue&hide_border=true)](https://github.com/Shaik-24)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-24&layout=compact&theme=vue&hide_border=true)
 
 ---
 
-### 💬 Connect with Me
-- **GitHub**: [@Shaik-24](https://github.com/Shaik-24)
-- **Looking to collaborate!** Feel free to reach out via issues or pull requests on any of my repositories.
+### 🧠 Goals
+- Develop full-stack applications
+- Contribute to open-source development
+- Build strong problem-solving and coding skills
+- Prepare for software development roles
 
-<br>
+---
+
+### 💬 Connect With Me
+- 🔗 GitHub: **https://github.com/Shaik-24**
+- 🤝 Open to collaboration on projects & learning opportunities
+
+---
+
+💡 *Feel free to explore my repositories and drop a star ⭐ if you find something helpful.*
+
