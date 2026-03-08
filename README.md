@@ -38,22 +38,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shaik-24&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Shaik-24&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-24&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🏆 GitHub Achievements
 
 <p align="center">
@@ -71,6 +55,8 @@
 ---
 
 # 🐍 Contribution Snake
+
+
 
 <p align="center">
 <img src="https://github.com/Shaik-24/Shaik-24/blob/output/github-contribution-grid-snake.svg">
