@@ -38,13 +38,33 @@
 
 ---
 
-# 🏆 GitHub Achievements
+---
 
-<h3 align="center">📊 GitHub Metrics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaik-24&show_icons=true&theme=tokyonight" alt="Shaik Adil's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-24&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
-</p>
+# 📂 Featured Projects
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 ClearSpend</h3>
+      <p>A full-stack expense tracking application built to help users manage their finances effectively.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" />
+      </p>
+      <a href="https://github.com/Shaik-24/ClearSpend">View Project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏦 Console Banking System</h3>
+      <p>A robust backend application simulating core banking operations like deposits, withdrawals, and account management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/OOPs-Concepts-%2300599C.svg?style=flat" />
+      </p>
+      <a href="https://github.com/Shaik-24">View Project →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
