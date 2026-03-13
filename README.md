@@ -40,10 +40,9 @@
 
 # 🏆 GitHub Achievements
 
+<h1 align="center">🏆 GitHub Achievements</h1>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shaik-24&theme=tokyonight" alt="github trophy" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shaik-24&theme=tokyonight&no-bg=true&margin-w=15" alt="github trophies" />
 </p>>
 
 ---
