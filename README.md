@@ -40,10 +40,11 @@
 
 # 🏆 GitHub Achievements
 
+<h3 align="center">📊 GitHub Metrics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaik-24&show_icons=true&theme=tokyonight" alt="Shaik-24's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-24&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaik-24&show_icons=true&theme=tokyonight" alt="Shaik Adil's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-24&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+</p>
 
 ---
 
