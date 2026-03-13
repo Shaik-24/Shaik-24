@@ -41,8 +41,10 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shaik-24&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shaik-24&theme=tokyonight" alt="github trophy" />
+  </a>
+</p>>
 
 ---
 
@@ -59,7 +61,7 @@
 
 
 <p align="center">
-<img src="https://github.com/Shaik-24/Shaik-24/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Shaik-24/Shaik-24/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 ---
