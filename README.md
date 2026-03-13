@@ -40,9 +40,9 @@
 
 # 🏆 GitHub Achievements
 
-<h1 align="center">🏆 GitHub Achievements</h1>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shaik-24&theme=tokyonight&no-bg=true&margin-w=15" alt="github trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaik-24&show_icons=true&theme=tokyonight" alt="Shaik-24's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-24&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>>
 
 ---
