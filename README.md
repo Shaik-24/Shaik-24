@@ -39,34 +39,50 @@
 ---
 
 ---
+## 📂 Featured Projects
 
-# 📂 Featured Projects
+<table>
+<tr>
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💰 ClearSpend</h3>
-      <p>A full-stack expense tracking application built to help users manage their finances effectively.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" />
-      </p>
-      <a href="https://github.com/Shaik-24/ClearSpend">View Project →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏦 Console Banking System</h3>
-      <p>A robust backend application simulating core banking operations like deposits, withdrawals, and account management.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/OOPs-Concepts-%2300599C.svg?style=flat" />
-      </p>
-      <a href="https://github.com/Shaik-24">View Project →</a>
-    </td>
-  </tr>
+<td width="33%" valign="top">
+
+### 🧾 BillFlow
+A professional billing and invoice management system that enables invoice creation, PDF generation, customer management, and sales tracking.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+[View Project →](https://github.com/Shaik-24/BillFlow)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💰 ClearSpend
+A full-stack expense tracking application built to help users manage their finances effectively.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+[View Project →](https://github.com/Shaik-24/ClearSpend)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🏦 Console Banking System
+A robust backend application simulating core banking operations like deposits, withdrawals, and account management.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+
+[View Project →](https://github.com/Shaik-24)
+
+</td>
+
+</tr>
 </table>
-
----
 
 # 👀 Profile Visitors
 
