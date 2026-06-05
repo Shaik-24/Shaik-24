@@ -53,7 +53,7 @@ A professional billing and invoice management system that enables invoice creati
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-[View Project →](https://github.com/Shaik-24/BillFlow)
+[View Project →](https://github.com/Shaik-24/Bill_Flow)
 
 </td>
 
