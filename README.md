@@ -55,7 +55,7 @@ An enterprise service desk management system that streamlines support ticket man
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-[View Project →](https://github.com/Shaik-24)
+[View Project →](https://github.com/Shaik-24/DeskPilot)
 
 </td>
 
